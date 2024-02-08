@@ -1,3 +1,5 @@
+// Chapter 1: Variables, constants, and keywords.
+
 #include <stdio.h>
 
 int main()
